@@ -1,4 +1,4 @@
--👋 Hi, I’m @dp307911
+-👋 Hi, I’m deepak parmar
 
 -👀 I’m interested in data analytics, machine learning, and automation.
 
